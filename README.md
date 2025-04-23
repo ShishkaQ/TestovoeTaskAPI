@@ -38,7 +38,4 @@ go run main.go
 ```
 
 ### Документация: http://localhost:8080/swagger/index.html
-
-
-## Превью
 ![](README_media/item1.png)
